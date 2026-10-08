@@ -1,24 +1,24 @@
 ## What is a client?
 
 A client is the device or browser that asks for something.
-For example, your phone or Chrome browser can be a client
+For example, my phone or Chrome browser can be a client
 
 ## What is a server?
 
-A server is a computer that receives requests and sends back information.
+A server is a computer that receives requests and sends back information
 It works behind the scenes
 
 ## What happens when someone visits a website?
 
 First, the person enters the website address.
-DNS helps find the server.
+DNS helps find the server
 The browser then sends a request to the server.
 The server processes it and sends a response.
 The browser displays the website.
 
 ## What is the Internet?
 
-The Internet is a huge network that connects computers and devices around the world.
+The Internet is a very very big global network that connects computers and devices around the world.
 It allows them to communicate and share information
 
 ## What is DNS?
